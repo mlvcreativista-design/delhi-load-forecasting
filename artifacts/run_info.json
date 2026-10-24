@@ -1,0 +1,8 @@
+{
+  "source": "synthetic",
+  "best_model": "ensemble",
+  "test_days": 90,
+  "band_coverage_pct": 74.21296296296296,
+  "bess_power_mw": 300,
+  "bess_energy_mwh": 1200
+}
