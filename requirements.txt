@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+scikit-learn
+lightgbm
+matplotlib
+requests
+holidays
+shap
+joblib
+streamlit
+plotly
+# Optional (LSTM). CPU build is enough:
+# pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch
